@@ -8,7 +8,8 @@ body {
 
 /* Initial menu */
 .menu {
-  background: #202024 url('http://s3.amazonaws.com/codecademy-content/courses/ltp2/img/uber/black-thread.png') repeat left top;
+  background: #202024 url('http://s3.amazonaws.com/codecademy-content/courses/ltp2/img/uber/black-thread.png'); 
+	repeat: left top;
   left: -285px;  /* start off behind the scenes */
   height: 100%;
   position: fixed;
@@ -18,7 +19,7 @@ body {
 /* Basic styling */
 
 .jumbotron {
-  background-image: url('tech.jpg'); 
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfd7n6vKEDJ7GpTsTAmDQQXNBkZlpmXL2IDgX_Huzi5SHOpYRk'); 
   height: 100%;
   -webkit-background-size: cover;
      -moz-background-size: cover;
