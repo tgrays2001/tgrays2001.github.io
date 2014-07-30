@@ -21,10 +21,10 @@ body {
 .jumbotron {
   background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfd7n6vKEDJ7GpTsTAmDQQXNBkZlpmXL2IDgX_Huzi5SHOpYRk'); 
   height: 100%;
-  -webkit-background-size: cover;
-     -moz-background-size: cover;
-       -o-background-size: cover;
-          background-size: cover;
+  -webkit-background-size: 150px 150px;
+     -moz-background-size: 100px;
+       -o-background-size: 100px;
+          background-size: 93% 93%;
 }
 
 .menu ul {
